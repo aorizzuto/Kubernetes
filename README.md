@@ -2,6 +2,6 @@
 
 It has three important groups:
 
-- controladores
-- workers
-- etcd
+- Controllers
+- Workers
+- Etcd
